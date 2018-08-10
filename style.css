@@ -7,7 +7,7 @@ div {
   padding: 20px;
 }
 
-table {
+table, div {
   border: 2px solid black;
   border-collapse: collapse;
   width: 50%;
