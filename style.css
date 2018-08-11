@@ -2,10 +2,10 @@ a, ul, h1, h2 {
   color: green; 
 }
 
-div {
-  margin: 20px;
-  padding: 30px;
-}
+#div {
+#  margin: 20px;
+#  padding: 30px;
+#}
 
 table {
   border: 2px solid black;
