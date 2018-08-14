@@ -6,12 +6,10 @@ ul, h1, h2 {
   color: #0a2e0f; 
 }
 
-<style>
-p::selection {
+::selection {
   color: red;
   beckground-color: yellow;
 }
-</style>
 
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
