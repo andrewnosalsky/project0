@@ -1,4 +1,8 @@
-a, ul, h1, h2 {
+a {
+  color: #e6e919; 
+}
+
+ul, h1, h2 {
   color: #0a2e0f; 
 }
 
