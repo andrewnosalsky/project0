@@ -1,5 +1,13 @@
-a, ul, h1 {
+a {
+  color: blue; 
+}
+
+ul, h2 {
   color: green; 
+}
+
+h1 {
+  color:  #145a32; 
 }
 
 table {
