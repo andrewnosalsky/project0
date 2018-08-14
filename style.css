@@ -13,7 +13,7 @@ a, ul, h1, h2 {
 }
 
 .container {
-                background-color: #e2eee1;
+                background-color: #eefdfd;
                 display: flex;
                 flex-wrap: wrap;
             }
