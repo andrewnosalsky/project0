@@ -2,8 +2,6 @@ a, ul, h1, h2 {
   color: green; 
 }
 
-
-
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
 }
@@ -15,7 +13,7 @@ a, ul, h1, h2 {
 }
 
 .container {
-                background-color:   #fafcfa;
+                background-color: #e2eee1;
                 display: flex;
                 flex-wrap: wrap;
             }
