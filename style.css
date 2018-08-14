@@ -6,7 +6,7 @@ ul, h1, h2 {
   color: #0a2e0f; 
 }
 
-div::selection {
+h2::selection {
   color: red;
   beckground-color: yellow;
 }
