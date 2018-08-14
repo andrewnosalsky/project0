@@ -1,8 +1,4 @@
-a {
-  color: blue; 
-}
-
-ul {
+a, ul, h1 {
   color: blue; 
 }
 
@@ -10,18 +6,14 @@ h2 {
   color: green; 
 }
 
-h1 {
-  color:  #145a32; 
-}
-
 table {
-  border: 2px solid black;
+  border: 2px solid white;
   border-collapse: collapse;
   width: 100%;
 }
 
 th, td {
-  border: 1px solid black;
+  border: 1px solid white;
   padding: 5px;
   text-algin: center;
 }
