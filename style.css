@@ -3,14 +3,14 @@ a, ul, h1, h2 {
 }
 
 table {
-  border: 2px solid white;
+  border: 2px solid #fafcfa;
   border-collapse: collapse;
   width: 100%;
 }
 
 th, td {
-  border: 5px solid white;
-  padding: 10px;
+  border: 1px solid #fafcfa;
+  padding: 5px;
   text-algin: center;
 }
 
