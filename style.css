@@ -6,8 +6,6 @@ ul, h1, h2 {
   color: #0a2e0f; 
 }
 
-.row{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}
-
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
 }
