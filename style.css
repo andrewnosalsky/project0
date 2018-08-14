@@ -2,17 +2,7 @@ a, ul, h1, h2 {
   color: green; 
 }
 
-table {
-  border: 2px solid #fafcfa;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-th, td {
-  border: 1px solid #fafcfa;
-  padding: 5px;
-  text-algin: center;
-}
 
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
