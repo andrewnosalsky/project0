@@ -1,5 +1,5 @@
 a, ul, h1, h2 {
-  color: green; 
+  color: #0a2e0f; 
 }
 
 @media screen and (max-width: 1600px) {
