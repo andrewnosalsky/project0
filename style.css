@@ -2,7 +2,11 @@ a {
   color: blue; 
 }
 
-ul, h2 {
+ul {
+  color: blue; 
+}
+
+h2 {
   color: green; 
 }
 
