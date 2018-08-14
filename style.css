@@ -1,8 +1,4 @@
-a, ul, h1 {
-  color: blue; 
-}
-
-h2 {
+a, ul, h1, h2 {
   color: green; 
 }
 
