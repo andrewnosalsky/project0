@@ -15,3 +15,18 @@ ul, h1, h2 {
 @media screen and (max-width: 1024px) {
     div.for-example {width: 980px;}
 }
+
+#foo {
+    width: 500px;
+    height: 375px;
+    position: relative;
+    background: url('https://andrewnosalsky.github.io/project0/moto.jpeg') no-repeat 0 0;
+}
+#mail {
+    display: inline-block;
+    position: absolute;
+    left: 140px;
+    top: 85px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+}
