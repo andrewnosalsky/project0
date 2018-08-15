@@ -15,16 +15,3 @@ ul, h1, h2 {
 @media screen and (max-width: 1024px) {
     div.for-example {width: 980px;}
 }
-
-.container {
-                background-color: #eefdfd;
-                display: flex;
-                flex-wrap: wrap;
-            }
-
-            .container > div {                
-                font-size: 20px;
-                margin: 20px;
-                padding: 20px;
-                width: 350px;
-            }
