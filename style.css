@@ -19,7 +19,7 @@ ul, h1, h2 {
 #foo {
     width: 1219px;
     height: 220px;
-    position: relative;
+    position: static;
     background: url('https://andrewnosalsky.github.io/project0/moto.jpeg') no-repeat 0 0;
 }
 #mail {
