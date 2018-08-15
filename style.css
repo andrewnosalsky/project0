@@ -17,8 +17,8 @@ ul, h1, h2 {
 }
 
 #foo {
-    width: 500px;
-    height: 220px;
+    width: 300px;
+    height: 200px;
     position: relative;
     background: url('zenith-sm.jpeg') no-repeat 0 0;
 }
