@@ -6,6 +6,17 @@ ul, h1, h2 {
   color: #0a2e0f; 
 }
 
+.container {
+                background-color: #eefdfd;
+                display: flex;
+                flex-wrap: wrap;
+                           
+                font-size: 20px;
+                margin: 20px;
+                padding: 20px;
+                width: 350px;
+}
+
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
 }
