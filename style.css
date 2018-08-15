@@ -16,20 +16,6 @@ ul, h1, h2 {
     div.for-example {width: 980px;}
 }
 
-.container {
-                background-color: #eefdfd;
-                display: flex;
-                flex-wrap: wrap;
-            }
-
-            .container > div {                
-                font-size: 20px;
-                margin: 20px;
-                padding: 20px;
-                width: 350px;
-}
-
-
 #foo {
     width: 300px;
     height: 200px;
