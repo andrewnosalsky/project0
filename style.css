@@ -17,6 +17,7 @@ ul, h1, h2 {
 }
 
 #foo {
+    width="100%";
     
     position: relative;
     background: url('https://andrewnosalsky.github.io/project0/moto.jpeg') no-repeat 0 0;
