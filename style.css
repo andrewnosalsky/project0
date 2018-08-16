@@ -6,6 +6,10 @@ ul, h1, h2 {
   color: #0a2e0f; 
 }
 
+h2 {
+  text-algin: center
+}
+
 .container {
                 background-color: #eefdfd;               
 }
