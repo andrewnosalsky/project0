@@ -1,20 +1,26 @@
 a {
-  color: #e6e919; 
+    color: var(--red); 
+}
+
+h1, h2 {
+    font-weight: bold;
 }
 
 ul, h1, h2 {
-  color: #0a2e0f; 
+    color: #0a2e0f; 
 }
-
-h2 {
-  text-algin: center
-}
-
 
 .container {
-                background-color: #eefdfd;               
+    background-color: #eefdfd;               
 }
 
+div {    
+    padding: 20px;
+}
+
+:root {
+    --red: #cc0b0b;
+}
 
 @media screen and (max-width: 1600px) {
     div.for-example {width: 1500px;}
