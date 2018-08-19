@@ -1,23 +1,17 @@
-a {
-    color: var(--red); 
-}
-
-h1, h2 {
-    font-weight: bold;
-}
-
-ul, h1, h2 {
-    color: #0a2e0f; 
-}
-
 .container {
-    background-color: #eefdfd;               
+    background-color: #eefdfd;
 }
 
-div {    
-    padding: 20px;
-}
+div {
+    padding: 20px; }
 
+    div a {
+        color: var(--red); }
+    div h1, h2 {
+        font-weight: bold; }
+    div ul, h1, h2 {
+        color: #0a2e0f; }
+        
 :root {
     --red: #cc0b0b;
 }
@@ -38,6 +32,14 @@ div {
     height: 200px;
     position: relative;
     background: url('zenith-sm.jpeg') no-repeat 0 0;
+}
+#mail {
+    display: inline-block;
+    position: absolute;
+    left: 45px;
+    top: 17px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
 }
 #mail {
     display: inline-block;
