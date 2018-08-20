@@ -1,0 +1,49 @@
+$color: #cc0b0b;
+
+div {
+    padding: 20px;
+
+    a {
+        color: $color;
+    }
+    h1, h2 {
+        font-weight: bold;
+    }
+    ul, h1, h2 {
+        color: #0a2e0f;
+    }
+}
+
+%message {
+    background-color: #eefdfd;
+}
+
+.container {
+    @extend %message;
+}
+
+@media screen and (max-width: 1600px) {
+    div.for-example {width: 1500px;}
+}
+@media screen and (max-width: 1280px) {
+    div.for-example {width: 1100px;}
+}
+@media screen and (max-width: 1024px) {
+    div.for-example {width: 980px;}
+}
+
+
+#foo {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    background: url('zenith-sm.jpeg') no-repeat 0 0;
+}
+#mail {
+    display: inline-block;
+    position: absolute;
+    left: 45px;
+    top: 17px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+}
