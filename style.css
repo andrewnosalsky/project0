@@ -11,7 +11,7 @@ div {
   background-color: #eefdfd; }
 
 :root {
-  --red: red; }
+  --red: #cc0b0b; }
 
 @media screen and (max-width: 1600px) {
   div.for-example {
