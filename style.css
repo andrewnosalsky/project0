@@ -10,9 +10,6 @@ div {
 .container {
   background-color: #eefdfd; }
 
-:root {
-  --red: #cc0b0b; }
-
 @media screen and (max-width: 1600px) {
   div.for-example {
     width: 1500px; } }
