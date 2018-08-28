@@ -5,16 +5,7 @@ div {
   div h1, div h2 {
     font-weight: bold; }
   div ul, div h1, div h2 {
-    color: #0a2e0f; }
-  @media screen and (max-width: 1600px) {
-    div div.for-example {
-      width: 100%; } }
-  @media screen and (max-width: 1280px) {
-    div div.for-example {
-      width: 100%; } }
-  @media screen and (max-width: 1024px) {
-    div div.for-example {
-      width: 100%; } }
+    color: #0a2e0f; } }
 
 .container {
   background-color: #eefdfd; }
