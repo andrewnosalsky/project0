@@ -21,13 +21,13 @@ div {
 
 @media (min-width: 500px) {
                 h1::before {
-                    content: "Welcome to My Web Page!";
+                    content: "Just Hello!";
                 }
             }
 
             @media (max-width: 499px) {
                 h1::before {
-                    content: "Welcome!";
+                    content: "Hello!";
                 }
             }
 
