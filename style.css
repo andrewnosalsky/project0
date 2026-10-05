@@ -36,8 +36,8 @@ div {
   height: 200px;
   position: relative;
   background: url("zenith-sm.jpeg") no-repeat 0 0;
-  padding: 1.0;
-  line-height: 2.0;}
+  padding: 0;
+  line-height: 1.2;}
 
 
 
