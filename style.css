@@ -37,6 +37,11 @@ div {
   position: relative;
   background: url("zenith-sm.jpeg") no-repeat 0 0; }
 
+#foo div {
+  padding: 0;
+  line-height: 1.2;
+}
+
 #mail {
   display: inline-block;
   position: absolute;
