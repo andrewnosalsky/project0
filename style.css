@@ -41,7 +41,7 @@ div {
 
 
 #foo > div:first-child {
-  height: 20px;
+  height: 35px;
 }
 
 
