@@ -40,6 +40,11 @@ div {
   line-height: 1.2;}
 
 
+#foo > div:first-child {
+  height: 35px;
+}
+
+
 
 #mail {
   display: inline-block;
